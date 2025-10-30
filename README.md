@@ -1,8 +1,8 @@
 🍕 Pizza Sales Report Dashboard (Power BI)
 
  📊 Project Overview
-This project presents an **interactive Power BI dashboard** analyzing pizza sales performance for a pizza company.  
-It highlights **total revenue, best/worst-selling pizzas, sales trends, and category insights** over the year.
+This project presents an interactive Power BI dashboard analyzing pizza sales performance for a pizza company.  
+It highlights total revenue, best/worst-selling pizzas, sales trends, and category insights over the year.
 
 
 
@@ -70,7 +70,7 @@ It highlights **total revenue, best/worst-selling pizzas, sales trends, and cate
 |------|--------------|
 | `Pizza_Sales_Report.pbix` | Power BI dashboard file |
 | `screenshots/` | Dashboard images |
-| `README.md` | Project documentation |
+| `SQL Query` | Pizza sales SQL Queries |
 
 
 
